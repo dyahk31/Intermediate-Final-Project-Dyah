@@ -1,0 +1,27 @@
+.footer{
+    margin-top: 60px;
+    background-image: linear-gradient(to right, #45789D, #81ABC1, #A8DADC);
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.footer-box img{
+    width: auto;
+    height: 40px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-nav a{
+    text-decoration: none;
+    padding-left: 20px;
+    color: #1D3557;
+}
+
+.credits{
+    color: #1D3557;
+    font-size: 13px;
+    opacity: 0.9;
+    margin-top: 10px;
+    margin-left: 20px;
+}

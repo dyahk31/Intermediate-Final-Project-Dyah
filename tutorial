@@ -1,0 +1,19 @@
+Halo, 
+
+untuk menjalankan websitenya, diperlukan langkah - langkah ini:
+1. Yang pasti setelah lakuin git clone itu npm intall
+2. Buat database di localhost mu dengan nama 'booking_db'
+3. Untuk jalanin backendnya, pakai perintah 'nodemon index'
+4. Untuk jalanin frontendnya, pakai perintah 'npm start'
+5. Ingat start apache dan mysql di xampp
+
+Deskripsi Singkat : Website dengan konsep CRUD tapi untuk
+booking laundry gitu.
+
+Backendnya pakai Node Js, Express, Mysql
+Frontendnya pakai React.js dan Bootstrap
+
+Referensi : https://www.youtube.com/watch?v=es9_6RFR7wk&t=1665s
+
+Kalo mau nyampain kritik, pls chat personal atau ngomong langsung sama aku aja ya
+Thank you and have a nice day

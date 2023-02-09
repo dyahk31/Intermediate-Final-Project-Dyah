@@ -1,0 +1,42 @@
+.home-content{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+.home-text{
+    color: #1D3557;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.home-text h6{
+    color: #1D3557;
+    margin-left: -90px;
+}
+
+
+.button-start{
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.button-start button{
+    border: none;
+    background-color: #1D3557;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.link{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+.content-img{
+    margin-left: -50px;
+    margin-top: -50%;
+}

@@ -1,0 +1,14 @@
+.edit-form{
+    max-width: 20em;
+    margin: auto;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.form-content{
+    margin-bottom: 20px;
+}
+
+.form-control{
+    background-color: red;
+}

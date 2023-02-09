@@ -1,0 +1,105 @@
+.row{
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.card-body{
+    background-color: #F1FAEE;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#card-body-1{
+    background-color: #A8DADC;
+    border: none;
+}
+
+#card-body-2 {
+    background-image: linear-gradient(to right, #45789D, #629CB1, #8FD2D4);
+    border: none;
+}
+
+.card-box-small{
+    background-color: #A4BABB;
+    width: 80%;
+    height: 25px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.card-box-small p{
+    color: #1D3557;
+    font-size: 14px;
+    padding-top: 1px;
+    color: #1D3557;
+}
+
+.price{
+    color: #1D3557;
+    font-weight: bold;
+}
+
+.price2{
+    color: #F1FAEE;
+    font-weight: bold;
+}
+
+
+.weight{
+    color: #1D3557;
+    font-size: 13px;
+    float: right;
+    margin-top: -25px;
+}
+
+.weight2{
+    color: #F1FAEE;
+    font-size: 13px;
+    float: right;
+    margin-top: -25px;
+}
+
+.nb{
+    margin-top: -10px;
+    color: #1D3557;
+}
+
+.nb2{
+    margin-top: -10px;
+    color: #F1FAEE;
+}
+
+.icon{
+    margin-top: 20px;
+}
+
+.icon-text{
+    margin-top: -35px;
+    display: inline;
+}
+
+.content-text{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.content-text img{
+    width: 150px;
+    height: 150px;
+}
+
+.content-text h1{
+    background: -webkit-linear-gradient( #45789D, #629CB1, #8FD2D4);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.submit-form{
+    max-width: 20em;
+    margin: auto;
+    justify-content: center;
+}
+
+.form-content{
+    margin-bottom: 20px;
+}
